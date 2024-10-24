@@ -23,7 +23,7 @@ Git
 
 <h3>Setup for client side react app </h3>
 a. Clone the repository
-   command: - git clone <repository-link>
+   command: - git clone https://github.com/prince1565/sukriti_assignment.git
 
 b. goto client 
    @ command:- cd client 
